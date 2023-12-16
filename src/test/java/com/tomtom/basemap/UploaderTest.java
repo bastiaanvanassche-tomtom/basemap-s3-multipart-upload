@@ -14,6 +14,6 @@ class UploaderTest {
                         "omf-internal-usw2",
                         "transportation/cyprus-latest.osm.pbf",
                         "us-west-2",
-                        5*1024*1024);
+                        6*1024*1024);
     }
 }
